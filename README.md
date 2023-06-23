@@ -1,2 +1,2 @@
-# wordle_pygame
-A normal WOrdle game with GUI by Pygame
+# Wordle
+A normal Wordle game with GUI by Pygame
