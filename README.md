@@ -17,7 +17,7 @@
 
 
 ## Files
-The game is run from **wordle_GUI.py** file.
+The game is run from **wordle_GUI.py** file. To start the game, input 5, 6, or 7 to choose the length of the generated target word.
   
 ## References:
  * The English words are randomly generated from [dwyl/english-words](https://github.com/dwyl/english-words).
